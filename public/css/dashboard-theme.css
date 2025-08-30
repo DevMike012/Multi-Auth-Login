@@ -1,0 +1,103 @@
+/* Dashboard theme styles */
+
+/* Default theme: no override */
+
+.theme-dark body,
+.theme-dark .theme-inherit,
+.theme-dark #app,
+.theme-dark main,
+.theme-dark html {
+  background-color: #23272f !important;
+  color: #f7fafc !important;
+}
+.theme-dark aside,
+.theme-dark .bg-gray-800,
+.theme-dark .bg-gray-900 {
+  background-color: #18181b !important;
+  color: #f7fafc !important;
+}
+.theme-dark .bg-white {
+  background-color: #23272f !important;
+  color: #f7fafc !important;
+}
+.theme-dark .text-gray-800,
+.theme-dark .text-gray-900,
+.theme-dark .text-black,
+.theme-dark,
+.theme-dark label,
+.theme-dark select,
+.theme-dark input,
+.theme-dark th,
+.theme-dark td,
+.theme-dark h1,
+.theme-dark h2,
+.theme-dark h3,
+.theme-dark h4,
+.theme-dark h5,
+.theme-dark h6,
+.theme-dark p,
+.theme-dark span,
+.theme-dark a,
+.theme-dark button {
+  color: #f7fafc !important;
+  fill: #f7fafc !important;
+  border-color: #444 !important;
+}
+.theme-dark svg {
+  color: #f7fafc !important;
+  fill: #f7fafc !important;
+  stroke: #f7fafc !important;
+}
+
+.theme-light body,
+.theme-light .bg-gray-800,
+.theme-light .bg-gray-900 {
+  background-color: #3b3e41 !important;
+  color: #1a202c !important;
+}
+.theme-light .bg-white {
+  background-color: #fff !important;
+  color: #1a202c !important;
+}
+.theme-light .text-gray-800,
+.theme-light .text-gray-900,
+.theme-light .text-white,
+.theme-light,
+.theme-light label,
+.theme-light select,
+.theme-light input,
+.theme-light th,
+.theme-light td,
+.theme-light h1,
+.theme-light h2,
+.theme-light h3,
+.theme-light h4,
+.theme-light h5,
+.theme-light h6,
+.theme-light p,
+.theme-light span,
+.theme-light a,
+.theme-light button {
+  color: #1a202c !important;
+  fill: #1a202c !important;
+  border-color: #bbb !important;
+}
+.theme-light svg {
+  color: #1a202c !important;
+  fill: #1a202c !important;
+  stroke: #1a202c !important;
+}
+
+.theme-light body,
+.theme-light .bg-gray-800,
+.theme-light .bg-gray-900 {
+  background-color: #f7fafc !important;
+  color: #1a202c !important;
+}
+.theme-light .bg-white {
+  background-color: #fff !important;
+  color: #1a202c !important;
+}
+.theme-light .text-gray-800 {
+  color: #1a202c !important;
+}
